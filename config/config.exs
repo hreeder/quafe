@@ -10,17 +10,17 @@ use Mix.Config
 
 # You can configure for your application as:
 #
-#     config :evelixir, key: :value
+#     config :quafe, key: :value
 #
 # And access this configuration in your application as:
 #
-#     Application.get_env(:evelixir, :key)
+#     Application.get_env(:quafe, :key)
 #
 # Or configure a 3rd-party app:
 #
 #     config :logger, level: :info
 #
-config :evelixir,
+config :quafe,
   # Live: https://api.eveonline.com/
   # SiSi: https://api.testeveonline.com/
   api_host: "https://api.eveonline.com/"

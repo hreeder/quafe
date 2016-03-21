@@ -1,0 +1,2 @@
+defmodule Quafe do
+end

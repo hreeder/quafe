@@ -1,2 +1,0 @@
-defmodule EVElixir do
-end

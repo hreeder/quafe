@@ -1,4 +1,4 @@
-defmodule EVElixir.Char do
+defmodule Quafe.Char do
   alias Edenex.XML
   def character_id_from_name(name) do
     [first | _ ] = XML.make_call "eve/CharacterID", %{'names': name}
