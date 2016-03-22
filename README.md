@@ -2,6 +2,8 @@
 
 Quafe is an Elixir library to provide access to the EVE Online XML API. The aim is to have a native-like experience of accessing the API.
 
+I'd like to thank dotdotdotpaul for the edenex library which has given me inspiration for the inner workings of this library.
+
 ## Usage
 ```elixir
 iex(1)> Quafe.Server.server_status
